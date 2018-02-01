@@ -9,6 +9,6 @@ A web app for people to tag their feelings and emotions map.
     <li>Mubarak</li>
     <li>Mayuran</li>
     <li>Mufeer</li>
-    <li>Anybody willing to contribute</li>
+    <li>Anybody else who's willing to contribute to the project</li>
   </div>
 </div
